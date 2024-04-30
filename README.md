@@ -1,1 +1,1 @@
-# js-projeto
+# Sem projeto, por enquanto!
